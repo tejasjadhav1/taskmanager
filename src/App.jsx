@@ -7,8 +7,9 @@ const App = () => {
   return (
     <>
       {/* <Login/> */}
-      {/* <EmployeeDashboard/> */}
-      <AdminDashboard/>
+      <EmployeeDashboard/>
+      {/* <AdminDashboard/>  */} {/* ------ currently working, so uncomment this and comment EployeeDashboard */}
+      
     </>
   )
 }
